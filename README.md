@@ -1,7 +1,7 @@
 # Documentation
 
 ### General Information
-- This repository has purpose for ai engineer recruitment challenge test from @rubythalib33
+- This repository has purpose for ai engineer recruitment challenge test from @[rubythalib33](https://github.com/rubythalib33).
 - In this repository consist of 5 sub directory: `1_PythonSkill`, `2_PyTorchSkill`, `3_ModelServingSkill`, `4_DataAnalyticsSkill`, `5_FeatureEngineeringSkill`
 
 <br>
@@ -67,3 +67,4 @@
 
 ### Solution
 For every problem will be answered in each corresponded sub-directory to each problem number.
+Current status: **IN PROGRESS**
